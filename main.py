@@ -1,0 +1,5 @@
+num_1 = input(" enter your first number: ")
+num_2 = input(" enter another number: ")
+num_3 = input("enter your last number ")
+total = float( num_1) + float( num_2) + float( num_3)
+print(total)
